@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Thread Group-asap:HTTP Request,70000,41260,0,235603,45046.69,99.851%,18.45333,45.98,0.00,2551.5
+TOTAL,70000,41260,0,235603,45046.69,99.851%,18.45333,45.98,0.00,2551.5
